@@ -1,16 +1,23 @@
-# movies_app_api
+# Movie Search App
 
-A new Flutter project.
+A Flutter-based mobile application that allows users to search for movies using the OMDb API. The app features a clean, modern UI, displays movie details, and includes robust error handling. It uses the Provider package for state management and is structured for modularity and maintainability.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Search Movies**: Search for movies by title using a search bar.
+- **Default Movie List**: Displays a list of movies on the home screen without requiring a search (default query: "movie").
+- **Movie List**: Shows a scrollable list of movies with titles and poster images.
+- **Movie Details**: View detailed information including title, release year, description, and an enlarged poster image.
+- **State Management**: Uses Provider to manage search input and loading states.
+- **Error Handling**: Displays appropriate messages for no results ("No movies found") or API errors ("Error fetching data").
+- **Responsive UI**: Clean, modern design with Material Design components.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework for building the cross-platform mobile app.
+- **Dart**: Programming language for Flutter.
+- **OMDb API**: Public API for fetching movie data.
+- **Provider**: State management for handling search and loading states.
+- **HTTP**: Package for making API requests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
