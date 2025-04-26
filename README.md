@@ -21,5 +21,5 @@ A Flutter-based mobile application that allows users to search for movies using 
 - **HTTP**: Package for making API requests.
 ## Application image 
 ![Alt text](https://github.com/mashiurrahman10001/movies-app-api/blob/29d4aa576eb6e5d63c2927f33667879ec394b950/Screenshot_20250426_201843.jpg)
-
-
+![Alt text](https://github.com/mashiurrahman10001/movies-app-api/blob/0fe51bf2a68cd7bc23d8e0506d3248623c353080/Screenshot_20250426_201927.jpg
+)
