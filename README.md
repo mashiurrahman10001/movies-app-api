@@ -19,5 +19,7 @@ A Flutter-based mobile application that allows users to search for movies using 
 - **OMDb API**: Public API for fetching movie data.
 - **Provider**: State management for handling search and loading states.
 - **HTTP**: Package for making API requests.
+## Application image 
+![Alt text]()
 
 
